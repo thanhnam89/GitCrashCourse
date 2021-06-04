@@ -1,1 +1,1 @@
-this is the content from source file
+this is the content of source file in newFeature branch
